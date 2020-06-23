@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_opde_menu_profil_rating" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>menu_name</element>
+            <list_id display_value="x_opde_menu_profil_rating" element="NULL" name="x_opde_menu_profil_rating" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f553ac74db1a00d04e49d602ca9619de</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>mgrabar</sys_created_by>
+            <sys_created_on>2020-01-09 17:49:34</sys_created_on>
+            <sys_id>bd53ac74db1a00d04e49d602ca9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mgrabar</sys_updated_by>
+            <sys_updated_on>2020-01-09 17:49:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>field</element>
+            <list_id display_value="x_opde_menu_profil_rating" element="NULL" name="x_opde_menu_profil_rating" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f553ac74db1a00d04e49d602ca9619de</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>mgrabar</sys_created_by>
+            <sys_created_on>2020-01-09 17:49:34</sys_created_on>
+            <sys_id>b153ac74db1a00d04e49d602ca9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mgrabar</sys_updated_by>
+            <sys_updated_on>2020-01-09 17:49:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>pen</element>
+            <list_id display_value="x_opde_menu_profil_rating" element="NULL" name="x_opde_menu_profil_rating" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f553ac74db1a00d04e49d602ca9619de</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>mgrabar</sys_created_by>
+            <sys_created_on>2020-01-09 17:49:34</sys_created_on>
+            <sys_id>b553ac74db1a00d04e49d602ca9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mgrabar</sys_updated_by>
+            <sys_updated_on>2020-01-09 17:49:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>dms</element>
+            <list_id display_value="x_opde_menu_profil_rating" element="NULL" name="x_opde_menu_profil_rating" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f553ac74db1a00d04e49d602ca9619de</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>mgrabar</sys_created_by>
+            <sys_created_on>2020-01-09 17:49:34</sys_created_on>
+            <sys_id>b953ac74db1a00d04e49d602ca9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mgrabar</sys_updated_by>
+            <sys_updated_on>2020-01-09 17:49:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>menu</element>
+            <list_id display_value="x_opde_menu_profil_rating" element="NULL" name="x_opde_menu_profil_rating" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f553ac74db1a00d04e49d602ca9619de</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>mgrabar</sys_created_by>
+            <sys_created_on>2020-01-09 17:49:34</sys_created_on>
+            <sys_id>bd53ac74db1a00d04e49d602ca9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mgrabar</sys_updated_by>
+            <sys_updated_on>2020-01-09 17:49:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>dealer</element>
+            <list_id display_value="x_opde_menu_profil_rating" element="NULL" name="x_opde_menu_profil_rating" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f553ac74db1a00d04e49d602ca9619de</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>mgrabar</sys_created_by>
+            <sys_created_on>2020-01-09 17:49:34</sys_created_on>
+            <sys_id>b153ac74db1a00d04e49d602ca9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mgrabar</sys_updated_by>
+            <sys_updated_on>2020-01-09 17:49:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_opde_menu_profil_rating" element="NULL" name="x_opde_menu_profil_rating" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f553ac74db1a00d04e49d602ca9619de</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>mgrabar</sys_created_by>
+            <sys_created_on>2020-01-09 17:49:34</sys_created_on>
+            <sys_id>b553ac74db1a00d04e49d602ca9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mgrabar</sys_updated_by>
+            <sys_updated_on>2020-01-09 17:49:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_opde_menu_profil_rating" element="NULL" name="x_opde_menu_profil_rating" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f553ac74db1a00d04e49d602ca9619de</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>mgrabar</sys_created_by>
+            <sys_created_on>2020-01-09 17:49:34</sys_created_on>
+            <sys_id>b953ac74db1a00d04e49d602ca9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mgrabar</sys_updated_by>
+            <sys_updated_on>2020-01-09 17:49:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_opde_menu_profil_rating</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>mgrabar</sys_created_by>
+            <sys_created_on>2020-01-09 17:49:34</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>f553ac74db1a00d04e49d602ca9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_opde_menu_profil_rating</sys_name>
+            <sys_package display_value="Menu Profile" source="x_opde_menu_profil">5c3fd0bcdbd600d04e49d602ca9619bd</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Menu Profile">5c3fd0bcdbd600d04e49d602ca9619bd</sys_scope>
+            <sys_update_name>sys_ui_list_x_opde_menu_profil_rating_null</sys_update_name>
+            <sys_updated_by>mgrabar</sys_updated_by>
+            <sys_updated_on>2020-01-09 17:49:34</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

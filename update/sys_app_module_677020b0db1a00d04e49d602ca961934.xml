@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Menu Profile">de762cf81b92c890d9747510cd4bcba6</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_app_module/>
+        <mobile_title>Menu Profile</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>mgrabar</sys_created_by>
+        <sys_created_on>2020-01-09 17:37:08</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>677020b0db1a00d04e49d602ca961934</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Menu Profile</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Menu Profile" source="x_opde_menu_profil">5c3fd0bcdbd600d04e49d602ca9619bd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Menu Profile">5c3fd0bcdbd600d04e49d602ca9619bd</sys_scope>
+        <sys_update_name>sys_app_module_677020b0db1a00d04e49d602ca961934</sys_update_name>
+        <sys_updated_by>mgrabar</sys_updated_by>
+        <sys_updated_on>2020-01-09 18:12:28</sys_updated_on>
+        <timeline_page/>
+        <title>Menu Profile</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <view_on_mobile>false</view_on_mobile>
+        <window_name/>
+    </sys_app_module>
+</record_update>

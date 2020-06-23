@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Menu Profile" max_length="40" name="x_opde_menu_profil_menu_profile" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Escalation Contact" max_length="32" name="escalation_contact" reference="sys_user" type="reference"/>
+        <element display="true" label="Menu Name" max_length="40" name="menu_name" type="string"/>
+        <element label="Phone Number" max_length="12" name="phone_number" type="string"/>
+        <element label="Contracting" max_length="40" name="u_contracting" type="boolean"/>
+        <element label="eSign" max_length="40" name="u_esign" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Exceptions" max_length="1000" name="u_exceptions" type="string"/>
+        <element label="Pen Registration Support" max_length="40" name="u_pen_registration_support" type="boolean"/>
+        <element label="Void" max_length="40" name="u_void" type="boolean"/>
+        <index name="index">
+            <element name="escalation_contact"/>
+        </index>
+    </element>
+</database>

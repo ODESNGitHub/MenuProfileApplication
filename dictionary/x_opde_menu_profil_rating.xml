@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Rating" max_length="40" name="x_opde_menu_profil_rating" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Dealer" max_length="40" name="dealer" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="DMS" max_length="40" name="dms" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Field" max_length="40" name="field" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Menu" max_length="40" name="menu" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Menu Name" max_length="32" name="menu_name" reference="x_opde_menu_profil_menu_profile" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="PEN" max_length="40" name="pen" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Exceptions" max_length="1000" name="u_exceptions" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="General Information" max_length="1000" name="u_general_information" type="string"/>
+        <index name="index">
+            <element name="menu_name"/>
+        </index>
+    </element>
+</database>
